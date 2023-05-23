@@ -1,6 +1,6 @@
 <br>
 
-## 📌 Computer Science
+# 📌 Computer Science
 
 - ### Computer Architecture
 
@@ -96,58 +96,48 @@
 
 <br>
 
-## 📌 Algorithm
+  ### Algorithm
 
-- [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
-- [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
-- [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20(Insertion%20Sort).md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-insertion-sort)
-- [퀵 정렬(Quick Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
-- [병합 정렬(Merge Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
-- [힙 정렬(Heap Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
-- [기수 정렬(Radix Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md>)
-- [계수 정렬(Count Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md>)
-- [이분 탐색(Binary Search)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
-- [해시 테이블 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
-- [DFS & BFS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/DFS%20%26%20BFS.md)
-- [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
-- [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
-- [동적 계획법(Dynamic Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
-- [다익스트라(Dijkstra) 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra).md)
-- [비트마스크(BitMask)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
+  - [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
+  - [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
+  - [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20(Insertion%20Sort).md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-insertion-sort)
+  - [퀵 정렬(Quick Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
+  - [병합 정렬(Merge Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
+  - [힙 정렬(Heap Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
+  - [기수 정렬(Radix Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md>)
+  - [계수 정렬(Count Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md>)
+  - [이분 탐색(Binary Search)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
+  - [해시 테이블 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+  - [DFS & BFS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/DFS%20%26%20BFS.md)
+  - [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
+  - [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
+  - [동적 계획법(Dynamic Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
+  - [다익스트라(Dijkstra) 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra).md)
+  - [비트마스크(BitMask)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
 
-<br>
+  <br>
 
-- ##### ✏️ TEST
+  - #####  TEST
 
-  - [삼성 소프트웨어 역량테스트 PRO 등급 준비](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/SAMSUNG%20Software%20PRO%EB%93%B1%EA%B8%89%20%EC%A4%80%EB%B9%84.md)
+    - [삼성 소프트웨어 역량테스트 PRO 등급 준비](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/SAMSUNG%20Software%20PRO%EB%93%B1%EA%B8%89%20%EC%A4%80%EB%B9%84.md)
 
-<br>
+  <br>
 
-## 📌 Design Pattern
+  ### Design Pattern
 
-- [디자인패턴 개요(Overview)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/%5BDesign%20Pattern%5D%20Overview.md)
-- [어댑터 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Adapter%20Pattern.md)
-- [싱글톤 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Singleton%20Pattern.md)
-- [탬플릿 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Template%20Method.md)
-- [팩토리 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Factory%20Method.md)
-- [옵저버 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Observer%20pattern.md)
-- [스트레티지 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Strategy%20Pattern.md)
-- [컴포지트 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Composite%20Pattern.md)
-- [SOLID](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/SOLID.md)
+  - [디자인패턴 개요(Overview)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/%5BDesign%20Pattern%5D%20Overview.md)
+  - [어댑터 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Adapter%20Pattern.md)
+  - [싱글톤 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Singleton%20Pattern.md)
+  - [탬플릿 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Template%20Method.md)
+  - [팩토리 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Factory%20Method.md)
+  - [옵저버 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Observer%20pattern.md)
+  - [스트레티지 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Strategy%20Pattern.md)
+  - [컴포지트 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Composite%20Pattern.md)
+  - [SOLID](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/SOLID.md)
 
-<br>
 
-## 📌 Interview
 
-- [언어(Java, C++ ... )](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#언어)
-- [운영체제](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#운영체제)
-- [데이터베이스](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#데이터베이스>)
-- [네트워크](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#네트워크)
-- [웹(스프링)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#스프링)
-
-<br>
-
-## 📌 Language
+# 📌 Language
 
 - ### C
 
@@ -196,7 +186,7 @@
 
 <br>
 
-## 📌 Web
+# 📌 Web
 
 - [브라우저 동작 방법](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
 
@@ -261,55 +251,8 @@
   - [시스템 규모 확장](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5.md)
 
 
-<br>
 
-## 📌 Linux
 
-- [리눅스 기본 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
-- [폰 노이만 구조](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Von%20Neumann%20Architecture.md)
-- [퍼미션 활용](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Permission.md)
-
-<br>
-
-## 📌 New Technology
-
-- #### AI 
-  - [용어 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/README.md)
-  - [Tensorflow로 Linear Regression 알고리즘 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/Linear%20regression%20%EC%8B%A4%EC%8A%B5.md)
-  
-- #### Big Data
-  - [데이터 분석](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
-  - [DBSCAN 클러스터링 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/DBSCAN%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-  
-- #### IT Issues
-  - [이메일 공격 증가로 보안업계 대응 비상(19.08.07)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.07%5D%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EA%B3%B5%EA%B2%A9%20%EC%A6%9D%EA%B0%80%EB%A1%9C%20%EB%B3%B4%EC%95%88%EC%97%85%EA%B3%84%20%EB%8C%80%EC%9D%91%20%EB%B9%84%EC%83%81.md)
-  - [쿠팡 서비스 오류(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
-  - [GraphQL(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
-  - [SK 하이닉스의 탄생은?(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
-  - [구글, 크롬 브라우저에서 FTP 지원 중단 확정(19.08.20)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.20%5D%20Google%2C%20%ED%81%AC%EB%A1%AC%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C%20FTP%20%EC%A7%80%EC%9B%90%20%EC%A4%91%EB%8B%A8%20%ED%99%95%EC%A0%95.md)
-  - [2020 ICT 이슈](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/2020%20ICT%20%EC%9D%B4%EC%8A%88.md)
-  - [AMD와 Intel의 반백년 전쟁, 그리고 2020년의 '반도체'](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/AMD%20vs%20Intel.md)
-
-<br>
-
-## 📌 Seminar
-
-- [2019 NHN OPEN TALK DAY](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
-- [2019 삼성전자 비전캠프](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EB%B9%84%EC%A0%84%EC%BA%A0%ED%94%84.md)
-- [2019 NCSOFT JOB Cafe](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Seminar/NCSOFT%202019%20JOB%20Cafe.md#2019-10-02-ncsoft-job-cafe)
-- [2019 삼성전자 오픈소스 컨퍼런스](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4(SOSCON).md>)
-
-<br>
-
-## 📌 ETC
-
-- [Git Commit Message Convention](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Git%20Commit%20Message%20Convention.md)
-- [GitHub Fork로 협업하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20Fork%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md#github-fork%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
-- [GitHub 저장소(repository) 미러링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
-- [Git & GitHub & GitLab Flow](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Git%20vs%20GitHub%20vs%20GitLab%20Flow.md)
-- [Javascript와 Node.js로 Git을 통해 협업하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Collaborate%20with%20Git%20on%20Javascript%20and%20Node.js.md) 
-
-<br>
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_small)
